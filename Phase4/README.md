@@ -11,4 +11,4 @@
     * If you wish to debug the OS run ``gdb`` followed by ``continue`` to debug.
         * Note: best used with an OS image created with ``make debug``
 
-Tagged 3.0
+Tagged 4.0
